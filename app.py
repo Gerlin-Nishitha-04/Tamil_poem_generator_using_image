@@ -4,7 +4,7 @@ import base64
 from io import BytesIO
 from PIL import Image
 
-genai.configure(api_key="AIzaSyBrgq3n5BFaUvhdp_JKiVrwXQbNjfi2bUA")  
+genai.configure(api_key="AIzaSyBFxdOc3KExVYy9rsPq39xTiZuZP4YdAv4")  
 
 def image_to_tamil_poem(image):
     """Generates a Tamil poem about an upload image using Gemini 1.5 Pro"""
